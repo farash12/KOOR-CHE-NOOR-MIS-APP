@@ -1,8 +1,8 @@
 {
-  "name": "JKASW Portal",
-  "short_name": "JKASW",
-  "description": "JKASW Leaves Management Portal",
-  "start_url": "/jkasw-portal/",
+  "name": "JKASW MIS",
+  "short_name": "JKASW MIS",
+  "description": "Koor Che Noor MIS System",
+  "start_url": "/KOOR CHE NOOR MIS APP/",
   "display": "standalone",
   "background_color": "#0b2045",
   "theme_color": "#0b2045",
