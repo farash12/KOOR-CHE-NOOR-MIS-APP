@@ -1,9 +1,9 @@
-const CACHE = 'jkasw-v1';
+const CACHE = 'Koor cha noor-v1';
 
 self.addEventListener('install', e => {
   e.waitUntil(
     caches.open(CACHE).then(cache => {
-      return cache.addAll(['/jkasw-portal/', '/jkasw-portal/index.html']);
+      return cache.addAll(['/Koor-che-noor-mis-app/', '/Koor-che-noor-mis-app/index.html']);
     })
   );
 });
